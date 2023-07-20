@@ -693,8 +693,7 @@ margin: 1px;
 }
 /*Mobile*/
 
-@media screen  and (min-device-width:20px) 
-    and (max-device-width: 700px)  
+@media screen  and (max-width: 700px)  
 {
 .container {
   width:350px;
