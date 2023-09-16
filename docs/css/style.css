@@ -487,6 +487,8 @@ margin: 1px;
   .cmp1_text{
     position:absolute;
     top: 55px;
+    font-weight: 300;
+
   }
 
   @-moz-document url-prefix() {
